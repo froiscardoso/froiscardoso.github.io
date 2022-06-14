@@ -79,7 +79,7 @@ meta_generator: true
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: DD-MM-YY
-time_format: HH:mm
+time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
@@ -103,6 +103,6 @@ theme: ascent
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/froiscardoso/froiscardoso-blog
+  repo: https://github.com/froiscardoso/froiscardoso.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
