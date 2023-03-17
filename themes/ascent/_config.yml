@@ -26,9 +26,9 @@ word_count: false
 # Google Analytics
 google_analytics:
   enable: true
-  acct: "G-NMEQ05F31W"
+  acct: "G-EQX0NLXEGD"
 
 # IntenseDebate ID
 intensedebate:
-  enable: true
+  enable: false
   acct: "317a0bde06cb0f2bae041d31fa4d4f1a"
