@@ -4,7 +4,7 @@ menu:
   # Arquivos: /archives
   Amanda: https://github.com/amandafrois
   Danilo: https://github.com/danilosoarescardoso
-  # Sobre: /about
+  Sobre: /about
 # rss: /atom.xml
 
 # Content
@@ -25,10 +25,10 @@ word_count: false
 
 # Google Analytics
 google_analytics:
-  enable: false
-  acct: "UA-000000000-0"
+  enable: true
+  acct: "G-NMEQ05F31W"
 
 # IntenseDebate ID
 intensedebate:
-  enable: false
-  acct: "00000000000000000000000000000000"
+  enable: true
+  acct: "317a0bde06cb0f2bae041d31fa4d4f1a"
